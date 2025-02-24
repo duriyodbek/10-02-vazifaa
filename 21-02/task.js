@@ -28,3 +28,4 @@ Ikki berilgan stringni eng uzunini topish uchun kod yozing.
 /** EXTRA 6
 Berilgan qiymat butun son (integer) ekanligini tekshirish uchun kod yozing.
 */
+
